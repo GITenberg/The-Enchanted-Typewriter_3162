@@ -1,0 +1,33 @@
+_repo: The-Enchanted-Typewriter_3162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hell -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Writing -- Automation -- Fiction'
+- !lcsh 'Typewriters -- Fiction'
+- GITenberg
+tableOfContents: 'The discovery -- Mr. Boswell imparts some late news of Hades --
+  From advance sheets of Baron Munchausen''s further recollections -- A chat with
+  Xanthippe -- The editing of Xanthippe -- The Boswell tours: Personally conducted
+  -- An important decision -- A hand-book to Hades -- Sherlock Holmes again -- Golf
+  in Hades.'
+title: The Enchanted Typewriter
+url: http://www.gutenberg.org/ebooks/3162
